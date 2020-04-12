@@ -21,11 +21,11 @@
 title: Tyler Kern
 # email: tyler@tylerkern.com
 description: >- # this means to ignore newlines until "baseurl:"
-    I propogate knowledge on sustainable, small-scale agriculture and appropriate technologies for small farms, homesteaders, and backyard gardeners.
+    I'm just a guy investigating the roles technology and nature play in a meaningful life.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
-# github_username:  thecodecultivator
+github_username:  tylerkern
 
 # Build settings
 theme: minima

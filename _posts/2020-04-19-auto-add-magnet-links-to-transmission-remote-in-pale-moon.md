@@ -15,7 +15,7 @@ touch ~/.local/bin/magnet
 2. Add contents to the script that pass the magnet link to `transmission-remote`
 ```sh
 #!/bin/sh
-exec transmission-remote -n --add "$1"
+exec transmission-remote --add "$1"
 ```
 
 3. Make it executable

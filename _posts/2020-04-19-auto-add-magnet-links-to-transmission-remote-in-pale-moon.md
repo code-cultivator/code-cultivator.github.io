@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Automatically Add Magnet Links to Transmission Daemon from Firefox/Pale Moon"
+title:  "How to Automatically Add Magnet Links to Transmission Daemon from Firefox/Pale Moon"
 date:   2020-04-19 10:08:00 -0600
 categories: technology
 tags: linux ubuntu command-line transmission pale-moon firefox

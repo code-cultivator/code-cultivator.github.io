@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to Convert m4a and m4b to mp3 with ffmpeg"
-date:   2020-06-24 4:08:00 -0600
+date:   2020-08-03 4:08:00 -0600
 categories: technology
 tags: linux command-line
 ---

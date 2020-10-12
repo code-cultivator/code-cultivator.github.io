@@ -11,3 +11,8 @@ Since I use an old SanDisk Sasnsa Clip+, I'm often converting m4a and m4b format
 ffmpeg -i input_file.m4[ab] -acodec libmp3lame output_file.mp3
 ```
 
+To do this on a whole directory:
+```
+find -name "*.m4[ab]" -exec bash -c 'ffmpeg -i "{}" -y -acodec libmp3lame "${0/.m4[ab]}.mp3"' {} \;
+
+```

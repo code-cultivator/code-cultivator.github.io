@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Farm Manager
+Director of Botanical Affairs
 [Red Acre Farm CSA](https://redacrefarmcsa.org)
 
-Secretary of the Board
-[Red Acre Center for Food and Agriculture](https://redacrecenter.org/board-of-directors/)
